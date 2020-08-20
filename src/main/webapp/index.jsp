@@ -1,1 +1,1 @@
-Successfully integrated Jenkins with Github with webhook.
+Successfully integrated with Github
